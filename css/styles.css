@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #6c63ff;
-  --secondary-color: #f5f2fe;
+  --primary-color: #RGB(254, 175, 200);
+  --secondary-color: #dcd4f4;
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -17,16 +17,19 @@ h3 {
 }
 
 h1 {
+  font-family: "Playfail Display", serif;
   font-size: 96px;
 }
 
 h2 {
   font-size: 48px;
+  font-family: "Poppins", sans-serif;
 }
 
 h3 {
   font-size: 24px;
   opacity: 0.7;
+  font-family: "Poppins", sans-serif;
 }
 
 p {
