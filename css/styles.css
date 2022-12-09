@@ -99,3 +99,17 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.my-work {
+  text-align: center;
+}
+
+.social {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.porfolio {
+  display: flex;
+  justify-content: center;
+}
