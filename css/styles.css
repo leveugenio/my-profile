@@ -97,13 +97,12 @@ p {
 }
 
 .headline {
-  display: flex;
-  padding: auto;
+  justify-content: center;
 }
 
 .my-work {
   text-align: center;
-  display: flex;
+  justify-content: flex;
 }
 
 .social {
