@@ -72,10 +72,6 @@ p {
   display: block;
 }
 
-.about-me {
-  text-align: center;
-}
-
 .about-paragraphs {
   font-family: "Poppins", sans-serif;
   text-align: center;
@@ -100,16 +96,24 @@ p {
   text-decoration: underline;
 }
 
+.headline {
+  display: flex;
+  padding: auto;
+}
+
 .my-work {
   text-align: center;
+  display: flex;
 }
 
 .social {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  text-align: center;
 }
 
 .porfolio {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+  text-align: center;
 }
